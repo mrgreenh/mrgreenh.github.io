@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            The New Canvas
+title:            'The New Canvas'
 tagline:          'A few things to do with a laptop in your hands.'
-description:      '<em>About the author:</em> Carlo Andrea Conte is... Someone who needs to think about what to write in here.'
+description:      '<ul><li><em>Carlo Andre Conte</em></li><li><a href="https://github.com/mrgreenh/">Github</a></li><li><a href="https://www.linkedin.com/in/carloandreaconte">Linkedin</a></li><li><a href="https://twitter.com/MrGreenH">Twitter</a></li></ul>'
 url:              http://mrgreenh.github.io
 baseurl:          '/'
 paginate:         5
