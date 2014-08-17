@@ -8,7 +8,6 @@ permalink:        pretty
 # Setup
 title:            'The New Canvas'
 tagline:          'A few things to do with a laptop in your hands.'
-description:      '<ul><li><em>Carlo Andre Conte</em></li><li><a href="https://github.com/mrgreenh/">Github</a></li><li><a href="https://www.linkedin.com/in/carloandreaconte">Linkedin</a></li><li><a href="https://twitter.com/MrGreenH">Twitter</a></li></ul>'
 url:              http://mrgreenh.github.io
 baseurl:          '/'
 paginate:         5
@@ -18,7 +17,3 @@ author:
   url:            https://twitter.com/mrgreenh
 
 # Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/mrgreenh
